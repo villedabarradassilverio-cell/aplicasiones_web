@@ -1,0 +1,73 @@
+
+@import 'package:google_fonts/google_fonts.dart';
+
+
+
+body{
+    background-color: #d91c1ce8;
+    margin: 0px;
+}
+h1{
+    color: #ffffff;/*comentario*/
+    font-size: 9rem;
+    background-color: #c2de0de8;
+    font-family:cinzel, sans-serif;
+}
+
+h2,h3,h4,h5,h6{
+    color: #f7f5f5;
+    font-size: 3rem;
+    font-family:monospace, sans-serif;
+    text-align: center;
+
+
+}
+p{
+    color: #ffffff;
+    font-size: 3rem;
+    font-family: 'Droid Sans', sans-serif;
+    text-align: center;
+}
+/*h3{
+    color: #ffffff;
+    font-size: 3rem;
+    font-family:dominant, sans-serif;
+    tex
+    
+
+}
+h4{
+    color: #ffffff;
+    font-size: 3rem;
+    text-align: center;
+
+    font-family:unset, sans-serif;
+}
+h5{
+    color: #ffffff;
+    font-size: 3rem;
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+}
+h6{
+    color: #ffffff;
+    font-size: 3rem;
+    
+    font-family:'Droid Sans', sans-serif;
+}*/
+p{
+    color: #ffffff;
+    font-size: 3rem;
+    font-family: 'Droid Sans', sans-serif;
+}
+.fondonaranja{
+    background-color: #ff7f00e8;
+}
+.fondoverde{
+    background-color: #00ff00e8;
+    margin-top:3rem;
+    padding-top: 2rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1.5rem;
+    padding-right: 4rem;
+}
