@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Lato:wght@400;700&display=swap');
+
 body{
     margin: 0%;
     background-color: #f4f0f0;
+    font-family: 'Lato', sans-serif;
 
 }
 p{
@@ -10,23 +13,25 @@ p{
 
 }
 h1{
-   
+    font-family: 'Playfair Display', serif;
     font-size: 3rem;
     color: #000000;
    
 }
 h2{
+    font-family: 'Playfair Display', serif;
     font-size: 2rem;
     color: #a0322d;
 
 }
-h3{
+h3,h4{
+    font-family: 'Playfair Display', serif;
     font-size: 1.8rem;
     color: #22be2a;
 
 }
 a{
-    color: #a0322d;
+    color: #3c00ff;
     font-weight: bold;
 
 }
@@ -34,4 +39,42 @@ a{
     width: 50%;
    
 
+}
+
+.contenedor{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+.seccion{
+    padding: 1.5rem 2rem;
+    margin-bottom: 1.5rem;
+    border-radius: 12px;
+}
+
+.seccion-intro{
+    background-color: #ede4d3;
+}
+
+.seccion-info{
+    background-color: #e3d5ca;
+}
+
+.seccion-prep{
+    background-color: #d8e2dc;
+}
+
+.seccion-extra{
+    background-color: #e8e2d8;
+}
+
+.seccion-imagen{
+    text-align: center;
+    background-color: #f5f1ea;
+}
+
+.seccion-nav{
+    text-align: center;
+    background-color: #ded3c4;
 }
