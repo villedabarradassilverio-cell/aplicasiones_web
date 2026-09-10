@@ -1,37 +1,76 @@
-body{
-    margin: 0%;
-    background-color: #f4f0f0;
-
-}
-p{
-    font-size: 1.1rem;
-    color: #000;
-    line-height: 2rem;
-
-}
-h1{
+body {
+    margin: 0;
     
+    background-color: #f4f0f0;
+    
+}
+
+
+div {
+    margin-bottom: 20px;
+    
+    
+    
+}
+
+
+.div-intro {
+    background-color: #ffffff; 
+}
+
+.div-caracteristicas {
+    background-color: #fcf1f0; 
+}
+
+.div-beneficios {
+    background-color: #f0f7f1; 
+}
+
+.div-imagen {
+    background-color: #faf5ee;
+    text-align: center;
+}
+
+.div-enlace {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+p {
+    font-size: 1.1rem;
+    color: #333333;
+    line-height: 2rem;
+}
+
+h1 {
     font-size: 3rem;
     color: #000000;
-    
+    margin-top: 0;
 }
-h2{
+
+h2 {
     font-size: 2rem;
     color: #a0322d;
-
+    margin-top: 0;
 }
-h3{
+
+h3 {
     font-size: 1.8rem;
     color: #22be2a;
-
+    margin-top: 0;
 }
-a{
+
+a {
     color: #a0322d;
     font-weight: bold;
-
+    text-decoration: none;
 }
-.imgclass{
-    width: 50%;
-    
 
+a:hover {
+    text-decoration: underline;
+}
+
+.imgclass {
+    width: 50%;
+    border-radius: 6px;
 }
