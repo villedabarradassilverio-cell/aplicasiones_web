@@ -15,14 +15,35 @@ h1{
     color: #000000;
     
 }
+h2{
+    font-size: 2rem;
+    color: #a0322d;
+
+}
+h3{
+    font-size: 1.8rem;
+    color: #22be2a;
+
+}
+a{
+    color: #a0322d;
+    font-weight: bold;
+
+}
 .imgclass{
     width: 100%;
     
 }
+iframe{
+    width: 100%;
+    max-width: 560px;
+    display: block;
+
+}
 .flex{
     margin-top: 5rem;
     display: flex;
-    justify-content: SPACE-BETWEEN;
+    justify-content: space-between;
 
     
 }
