@@ -1,5 +1,5 @@
 body{
-    margin: 36%;
+    margin: 0%;
     background-color: #ccc;
 
 }
@@ -34,19 +34,7 @@ a{
     width: 100%;
     
 }
-iframe{
-    width: 100%;
-    max-width: 560px;
-    display: block;
 
-}
-.flex{
-    margin-top: 5rem;
-    display: flex;
-    justify-content: space-between;
-
-    
-}
 .left{
     width: 30%;
     color: #22be2a ;
